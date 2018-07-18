@@ -1,7 +1,7 @@
 {
     "name": "likening/laravel",
     "description": "testing",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
